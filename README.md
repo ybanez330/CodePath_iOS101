@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/b3e2239898db44b990450e7485171179">
-      <p>Loom | Free Screen & Video Recording Software | Loom - 30 January 2024 - Watch Video</p>
+      <p>CodePath_iOS101Prework_JuliaYbanez - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/b3e2239898db44b990450e7485171179">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b3e2239898db44b990450e7485171179-with-play.gif">
@@ -32,7 +32,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Julia Ybanez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
