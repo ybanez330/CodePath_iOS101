@@ -28,7 +28,9 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+    Challenges that I encountered were those that dealt specifically with iOS development. 
+    I've used Xcode in prior projects, but I've never used the language Swift. 
+    The most time spent was reading the syntax and learning about this language.
 
 ## License
 
