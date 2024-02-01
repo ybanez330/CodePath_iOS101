@@ -26,7 +26,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
     
- ###Favorite Apps
+ ### Favorite Apps
  - Lose It!
     - User friendly ans astheic looking UI compared to other food trackers
     - Friend capabilities
@@ -40,7 +40,7 @@ The following **required** functionality is completed:
     - Integration with other Google services like Google Calendar and location sharing features enhances the overall user experience
  
  
- ###App Idea: BetOnU (Bet On You)   
+ ### App Idea: BetOnU (Bet On You)   
     An app I would like to develop is a self-growth app. The app would aim to aid personal growth through habit tracking and goal setting. Users would have the abiltity to create daily, weekly, or monthly goals. The app would also have a forum based community allowing users to provide tips and tricks, along with support and friendly challenges.
 
 ## Notes
