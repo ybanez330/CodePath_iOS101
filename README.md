@@ -41,13 +41,11 @@ The following **required** functionality is completed:
  
  
  ### App Idea: BetOnU (Bet On You)   
-    An app I would like to develop is a self-growth app. The app would aim to aid personal growth through habit tracking and goal setting. Users would have the abiltity to create daily, weekly, or monthly goals. The app would also have a forum based community allowing users to provide tips and tricks, along with support and friendly challenges.
+An app I would like to develop is a self-growth app. The app would aim to aid personal growth through habit tracking and goal setting. Users would have the abiltity to create daily, weekly, or monthly goals. The app would also have a forum based community allowing users to provide tips and tricks, along with support and friendly challenges.
 
 ## Notes
 
-    Challenges that I encountered were those that dealt specifically with iOS development. 
-    I've used Xcode in prior projects, but I've never used the language Swift. 
-    The most time spent was reading the syntax and learning about this language.
+Challenges that I encountered were those that dealt specifically with iOS development. I've used Xcode in prior projects, but I've never used the language Swift. The most time spent was reading the syntax and learning about this language.
 
 ## License
 
